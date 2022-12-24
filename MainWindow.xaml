@@ -24,7 +24,6 @@
                 <Separator/>
                 <MenuItem Header="_Выход"/>
             </MenuItem>
-            <MenuItem Header="_Правка"></MenuItem>
         </Menu>
         <ToolBarTray Grid.Row="1">
             <ToolBar Margin="5" Padding="5">
